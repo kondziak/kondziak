@@ -19,7 +19,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <a href="https://github.com/kondziak">
-  <img align="center" height="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondziak" />
+  <img align="center" height="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondziak&theme=light&hide_langs_below=1" />
 </a>
 
 ### Thanks for reading!❤️
