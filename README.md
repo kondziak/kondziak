@@ -1,3 +1,5 @@
+<div align="center">
+  
 ### 👋 Hi there, I’m Konrad
 ### 👀 I’m interested in programming, especially mobile development
 ### 🌱 I’m currently learning Flutter, Spring, Hibernate
@@ -16,16 +18,11 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<div align="center">
 
 <a href="https://github.com/kondziak">
   <img align="center" height="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondziak&theme=light&hide_langs_below=1" />
 </a>
   
-</div>
-
-<div align="center">
-
 ### Thanks for reading!❤️
 
 </div>
