@@ -22,6 +22,4 @@
   <img align="center" height="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondziak&theme=light&hide_langs_below=2" />
 </a>
 
-### Thanks for reading!❤️
-
 </div>
