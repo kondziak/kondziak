@@ -1,10 +1,9 @@
 <div align="center">
   
 ### 👋 Hi there, I’m Konrad
-### 👀 I’m interested in programming, especially mobile development
-### 🌱 I’m currently learning Flutter, Spring, Hibernate
-### :ok_hand: I really want to get an internship and hone my skills
-### 💞️ I’m looking to collaborate on project, would love to work on mobile application
+### 👀 I’m interested in programming
+### 🌱 I’m currently Spring, Hibernate, React
+### :ok_hand: I' ve been working in IT for 2 years
 ### 📫 You can reach me via email kondziak19777@gmail.com
 
 
