@@ -2,7 +2,7 @@
   
 ### 👋 Hi there, I’m Konrad
 ### 👀 I’m interested in programming
-### 🌱 I’m currently Spring, Hibernate, React
+### 🌱 I’m currently working in Spring, Hibernate, React, Docker
 ### :ok_hand: I' ve been working in IT for 2 years
 ### 📫 You can reach me via email kondziak19777@gmail.com
 
